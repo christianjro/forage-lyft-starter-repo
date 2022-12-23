@@ -5,7 +5,7 @@ from engine.willoughby_engine import WilloughbyEngine
 from battery.nubbin_battery import NubbinBattery
 from battery.spindler_battery import SpindlerBattery
 
-from car_factory import Car
+from car import Car
 
 class CarFactory():
     @staticmethod
